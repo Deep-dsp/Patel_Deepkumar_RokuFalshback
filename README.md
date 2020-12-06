@@ -1,10 +1,11 @@
 # ROKU STREAMING APP
 
-`Roku Streaming App` is audio/video web application or streaming application where people can watch and listen their favourite movies and music, respectively. This web application is for everyone but some of the contents may gonna be restricted for kids (for under 18 years). So, it can be said that app is divided into two categories **adults** and **kids**. Moreover, themes of web application will change according to "who logged in" whether a person is adult or kid which can be look more attractive and interactive for users.
+**`Roku Streaming App`** is audio/video web application or streaming application where people can watch and listen their favourite movies and music, respectively. This web application is for everyone but some of the contents may gonna be restricted for kids (for under 18 years). So, it can be said that app is divided into two categories **adults** and **kids**. Moreover, themes of web application will change according to "who logged in" whether a person is adult or kid which can be look more attractive and interactive for users.
 
 There will be mainly three pages:
 
-a) Sign In (``Landing page``)
+1. **Sign In** (``Landing page``)
+
     -   This page will containe simple sign in form with some fantastic background visuals.
     -   User can sign in if they already registred otherwise they will need to create new account from the link 
         which will be provided at bottom.
@@ -14,13 +15,15 @@ a) Sign In (``Landing page``)
         they fill up will be stored in database.
     -   This is short description of how this page will work.
 
-b) **ADULT** Streaming Page
+2. **ADULT** Streaming Page
+
     -   Once user will logged in, System will show all the available contents such as movies, music, short videos
         (trailers) in their specific section.
     -   Theme of this page will be designed in such a way which can easily convey or show that this page will be for 
         adults (may be by some dark colors, bold fonts and theme in general).
 
-c) **KIDS** Streaming Page
+3. **KIDS** Streaming Page
+
     -   There will be some restricted contents for kids streaming page and which can identified by their birth date.
     -   Theme of this page will be designed in such as way that kids can really enjoy to visit this page by using 
         some cartoon vector arts, some bold - curvey font style with shines and by using brightest color (by keeping primary colors and neon color in mind).
