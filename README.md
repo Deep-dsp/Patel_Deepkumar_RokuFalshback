@@ -45,6 +45,17 @@ Furthermore, there are number of designing tools and developing tools required t
     -   These ones can be used to manage data which come from the database and needs to be parsed in JASON. So, It    
         can show data in readable form.
 
+### Back-end Languages :
+
+1. PHP
+    - PHP will be used manage all the back-end process as well as validations.
+
+2. MySQL
+    -   used to fetch selected data according requirements from database to show up on front-end.
+
+3. phpMyadmin
+    -   used create database and store information
+
 ### Frameworks :       
 
 1. SASS 
