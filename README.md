@@ -30,6 +30,8 @@ There will be mainly three pages:
 
 Furthermore, there are number of designing tools and developing tools required to accompish this task. Information about tools are given as below:
 
+~~ Prototype : ~~ [Roku Prototype RAW](https://duckduckgo.com)
+
 ### Programming Languages :
 
 1. HTML5
