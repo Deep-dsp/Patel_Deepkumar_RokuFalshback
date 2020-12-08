@@ -36,6 +36,8 @@ Furthermore, there are number of designing tools and developing tools required t
 
 ***Roku Design Notes:*** [Roku Design Notes](https://docs.google.com/document/d/1aihQBQ7M5O5ThfTp0HXbxFJCe-oXqwqZ3-BhbaWiSCM/edit?usp=sharing)
 
+***Roku Dev Notes:*** [Roku Dev Notes](https://docs.google.com/document/d/1VyF4GH9AWdBZF2GIqOn66UEvz0jNv4z9Z67CwBEU5cQ/edit?usp=sharing)
+
 
 ### Programming Languages :
 
